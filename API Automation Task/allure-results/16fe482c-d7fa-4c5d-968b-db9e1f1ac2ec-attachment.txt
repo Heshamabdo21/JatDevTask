@@ -1,0 +1,5 @@
+Creating request body for user: John Doe with job: QA Engineer
+Request body created: {
+  "name": "John Doe",
+  "job": "QA Engineer"
+}

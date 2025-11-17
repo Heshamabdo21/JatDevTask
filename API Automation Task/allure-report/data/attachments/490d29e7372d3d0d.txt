@@ -1,0 +1,3 @@
+Verifying response time
+Response time: 797 ms
+Response time validated: 797 ms < 1000 ms

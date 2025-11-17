@@ -1,0 +1,2 @@
+Verifying response body
+Response body verified: name=John Doe, job=QA Engineer

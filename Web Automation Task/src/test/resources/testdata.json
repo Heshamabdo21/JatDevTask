@@ -1,0 +1,16 @@
+{
+  "testData": [
+    {
+      "url": "https://practicesoftwaretesting.com/",
+      "username": "customer@practicesoftwaretesting.com",
+      "password": "welcome01",
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "country": "USA",
+      "postal_code": "12345",
+      "expectedMessage": "Payment was successful",
+      "invoiceexpectedMessage": "Thanks for your order! Your invoice number is"
+    }
+  ]
+}

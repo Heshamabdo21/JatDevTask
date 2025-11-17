@@ -1,0 +1,2 @@
+Sending POST request to create user
+POST request sent, response status: 201

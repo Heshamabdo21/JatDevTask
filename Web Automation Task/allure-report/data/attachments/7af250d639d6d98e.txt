@@ -1,0 +1,20 @@
+2025-11-17 03:34:50.124 [main] INFO  tests.Checkout - Starting checkout automation scenario
+2025-11-17 03:34:50.124 [main] INFO  tests.Checkout - Navigating to URL: https://practicesoftwaretesting.com/
+2025-11-17 03:34:51.822 [main] INFO  tests.Checkout - Initializing HomePage object
+2025-11-17 03:34:51.822 [main] INFO  tests.Checkout - Clicking on Sign In button
+2025-11-17 03:34:52.338 [main] INFO  tests.Checkout - Entering email address: customer@practicesoftwaretesting.com
+2025-11-17 03:34:53.242 [main] INFO  tests.Checkout - Entering password
+2025-11-17 03:34:53.554 [main] INFO  tests.Checkout - Clicking Login button
+2025-11-17 03:34:53.856 [main] INFO  tests.Checkout - Verifying menu button is displayed
+2025-11-17 03:34:55.785 [main] INFO  tests.Checkout - Returning to home page
+2025-11-17 03:34:56.384 [main] INFO  tests.Checkout - Clicking on product
+2025-11-17 03:34:57.203 [main] INFO  tests.Checkout - Adding product to cart
+2025-11-17 03:34:58.110 [main] INFO  tests.Checkout - Verifying product is added to cart
+2025-11-17 03:34:59.434 [main] INFO  tests.Checkout - Returning to home page again
+2025-11-17 03:35:00.022 [main] INFO  tests.Checkout - Clicking on cart
+2025-11-17 03:35:00.511 [main] INFO  tests.Checkout - Proceeding to first checkout page
+2025-11-17 03:35:01.355 [main] INFO  tests.Checkout - Proceeding to second checkout page
+2025-11-17 03:35:01.678 [main] INFO  tests.Checkout - Filling billing information: 123 Main St, Anytown, CA, USA, 12345
+2025-11-17 03:35:02.635 [main] INFO  tests.Checkout - Proceeding to third checkout page
+2025-11-17 03:35:02.943 [main] INFO  tests.Checkout - Choosing payment method
+2025-11-17 03:35:03.255 [main] INFO  tests.Checkout - Finalizing order

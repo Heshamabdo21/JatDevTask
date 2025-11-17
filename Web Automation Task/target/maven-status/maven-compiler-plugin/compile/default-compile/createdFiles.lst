@@ -1,0 +1,5 @@
+pages\CheckoutPage.class
+pages\BasePage.class
+pages\ProductPage.class
+pages\LoginPage.class
+pages\HomePage.class

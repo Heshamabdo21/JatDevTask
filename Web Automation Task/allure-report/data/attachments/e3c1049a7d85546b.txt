@@ -1,0 +1,2 @@
+2025-11-17 03:34:50.124 [main] INFO  tests.Checkout - Starting checkout automation scenario
+2025-11-17 03:34:50.124 [main] INFO  tests.Checkout - Navigating to URL: https://practicesoftwaretesting.com/

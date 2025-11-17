@@ -1,0 +1,2 @@
+Reading user data from JSON file
+User data read successfully: {name=John Doe, job=QA Engineer}
